@@ -15,27 +15,29 @@ const posts = (await getCollection('blog')).sort(
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body class="flex flex-col min-h-screen bg-base-900">
-		<Header />
-		<main class="flex-1 text-white">
-			<section class="p-6">
-				<ul>
-					{
-						posts.map((post) => (
-							<li class="flex flex-row justify-between py-2">
-								<a href={`/blog/${post.slug}/`}>
-									<h4 class="title">{post.data.title}</h4>
-								</a>
-								<p>
-									<FormattedDate date={post.data.pubDate} />
-								</p>
-							</li>
-						))
-					}
-				</ul>
-			</section>
-		</main>
-		<Footer />
+  </head>
+  <body class="min-h-screen bg-base-900">
+    <div class="flex flex-col max-w-7xl mx-auto justify-between min-h-screen">
+      <Header />
+      <main class="flex-1 text-white p-4">
+        <section class="py-6">
+          <ul>
+            {
+              posts.map((post) => (
+                <li class="flex flex-row justify-between py-2">
+                  <a href={`/blog/${post.slug}/`}>
+                    <h4 class="title">{post.data.title}</h4>
+                  </a>
+                  <p>
+                    <FormattedDate date={post.data.pubDate} />
+                  </p>
+                </li>
+              ))
+            }
+          </ul>
+        </section>
+      </main>
+      <Footer />
+    </div>
 	</body>
 </html>
