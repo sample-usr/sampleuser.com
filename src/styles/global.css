@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-base-950: #0C0908;
+  --color-base-900: #211512;
+  --color-base-800: #5C2B1F;
+  --color-base-700: #7A5B52;
+  --color-base-600: #AD8E85;
+  --color-base-500: #C5AAA0;
+  --color-base-400: #D4AC9B;
+  --color-base-300: #EBC2AD;
+  --color-base-200: #F6DBCB;
+  --color-base-100: #FDEDDD;
+  
+  --color-magenta-900: #432325;
+  --color-magenta-700: #72373C;
+  --color-magenta-500: #9A4C52;
+  --color-magenta-300: #B3656C;
+  --color-magenta-100: #CB868B;
+  
+  --color-orange-900: #723503;
+  --color-orange-700: #AE5104;
+  --color-orange-500: #D66000;
+  --color-orange-300: #F9811F;
+  --color-orange-100: #FDAB68;
+}
