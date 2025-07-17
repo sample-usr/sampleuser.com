@@ -7,7 +7,7 @@ import { getCollection } from 'astro:content';
 import FormattedDate from '../components/FormattedDate.astro';
 
 const posts = (await getCollection('blog')).sort(
-	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 ---
 
@@ -29,9 +29,9 @@ const posts = (await getCollection('blog')).sort(
               posts.map((post) => (
                 <li class="flex flex-row justify-between py-2">
                   <a href={`/blog/${post.slug}/`}>
-                    <h4 class="title">{post.data.title}</h4>
+                    <h3 class="title text-orange-100">{post.data.title}</h3>
                   </a>
-                  <p>
+                  <p class="text-teal-200 font-mono text-sm">
                     <FormattedDate date={post.data.pubDate} />
                   </p>
                 </li>
