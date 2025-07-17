@@ -101,7 +101,7 @@ It is the suspension of all analysis that actually has any solace,
 like the Muzhik who was cutting grass,
 which inspired Levin to be completely absorbed in it as well.
 He forgot all about his troubles,
-The moments of "unconsciousness",
+the moments of "unconsciousness",
 when the scythe moved by itself.
 The immediate result of cutting,
 the moment of respite while coming back,
@@ -137,13 +137,6 @@ is making us increasingly brittle.
 We have become far more intolerable than ignorant.
 
 ## I have nothing but you, remember that!
-
-However, the intellect of Anna, clearly saw the hellish nightmare oncoming,
-but it was not a choice,
-her soul demanded its own ravaging,
-and she had nothing left, but him.
-But he was finite, and she knew that, and so all was lost
-even before it began??
 
 One of the most defining moments in the novel occurs
 when Anna tells Vronsky, "I have nothing but you, remember that!"
@@ -194,14 +187,14 @@ Or when he saw his dying brother.
 Death's reality struck him as completely foreign,
 something for which his intellect had left him utterly unprepared.
 But Kitty's divine ignorance—her natural, unthinking compassion—
-took control of circumstances that seemed utterly chaotic to him.
+took control of circumstances that seemed so chaotic to him.
 Her grace illuminated what his reasoning could not:
 that sometimes "living" life is the only reasonable thing to do.
 
 Being at the precipice of this clear subjective truth,
-but lost finding any purpose to his life,
+but lost at finding any purpose to his life,
 he is drawn to the idea of God,
-either divine incarnate or the human calculus to instil meaning in the meaningless
+either divine incarnate or the human calculus to instil meaning in the meaningless.
 
 > To live not for one's own needs but for God. For what God? For God. And could anything more meaningless be said than what he said?
 > But of course, there is the rejection,
@@ -209,8 +202,8 @@ either divine incarnate or the human calculus to instil meaning in the meaningle
 > Fyodor says that Kirillov the innkeeper lives for his belly. That is clear and reasonable. None of us, as reasonable beings, can live otherwise than for our belly. And suddenly the same Fyodor says it's bad to live for the belly and that one should live for the truth, for God, and I understand him from a hint! And I and millions of people who lived ages ago and are living now, muzhiks, the poor in spirit, and the wise men who have thought and written about it, saying the same thing in their vague language - we're all agreed on this one thing; what we should live for and what is good. I and all people have only one firm, unquestionable and clear knowledge, and this knowledge cannot be explained by reason - it is outside it, and has no causes, and can have no consequences
 
 The elusive truth that had been breeding in his consciousness,
-the hint he finally grasped in its fullness.
-What he discovers is that understanding has very little to do with reason,
+the hint he finally grasped in its fullness,
+is that understanding has very little to do with reason,
 and often the most profound truths transcend rational inquiry entirely.
 
 > This new feeling hasn't changed me, hasn't made me happy or suddenly enlightened, as 1 dreamed ... but my life now, my whole life, regardless of all that may happen to me, every minute of it, is not only not meaningless, as it was before, but has the unquestionable meaning of the good which it is in my power to put into it!
