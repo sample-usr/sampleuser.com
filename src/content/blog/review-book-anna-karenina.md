@@ -196,9 +196,6 @@ but lost at finding any purpose to his life,
 he is drawn to the idea of God,
 either divine incarnate or the human calculus to instil meaning in the meaningless.
 
-> To live not for one's own needs but for God. For what God? For God. And could anything more meaningless be said than what he said?
-> But of course, there is the rejection,
-> to which he overcomes
 > Fyodor says that Kirillov the innkeeper lives for his belly. That is clear and reasonable. None of us, as reasonable beings, can live otherwise than for our belly. And suddenly the same Fyodor says it's bad to live for the belly and that one should live for the truth, for God, and I understand him from a hint! And I and millions of people who lived ages ago and are living now, muzhiks, the poor in spirit, and the wise men who have thought and written about it, saying the same thing in their vague language - we're all agreed on this one thing; what we should live for and what is good. I and all people have only one firm, unquestionable and clear knowledge, and this knowledge cannot be explained by reason - it is outside it, and has no causes, and can have no consequences
 
 The elusive truth that had been breeding in his consciousness,
@@ -206,11 +203,11 @@ the hint he finally grasped in its fullness,
 is that understanding has very little to do with reason,
 and often the most profound truths transcend rational inquiry entirely.
 
-> This new feeling hasn't changed me, hasn't made me happy or suddenly enlightened, as 1 dreamed ... but my life now, my whole life, regardless of all that may happen to me, every minute of it, is not only not meaningless, as it was before, but has the unquestionable meaning of the good which it is in my power to put into it!
-> I'm not really sure if this is supposed
-> to be an existential claim,
-> like Dostyovesky.
-> However, I believe it isn't so?
+> This new feeling hasn't changed me, hasn't made me happy or suddenly enlightened me, as I dreamed - but this feeling
+> has entered into me through suffering and has firmly lodged itself in my soul: I'll get angry in the same way with people,
+> argue in the same way, speak my mind inappropriately, there will be the same wall between my soul's deepest thoughts and other people,
+> even those closest to me. I'll accuse them in the same way of my own fear and then regret it - but my life now, my whole life, regardless
+> of what may happen to me, every minute of it, is not only not meaningless but has the unquestionable meaning of the good which it is in my power to put into it!
 
 Levin's journey concludes not with answers that satisfy the mind,
 but with a peace that emerges from a simple feeling,
