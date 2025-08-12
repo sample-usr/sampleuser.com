@@ -1,8 +1,8 @@
 ---
 title: "How to: VM templates in Proxmox"
 description: "How to create VM templates in Proxmox"
-pubDate: "June 27 2024"
-tags: ["how-to"]
+publishedAt: 2024-06-27
+tags: ["how-to", "dev"]
 ---
 
 Proxmox gives you the ability to create templates

@@ -1,7 +1,7 @@
 ---
 title: "Review: Anna Karenina"
 description: "Book review of Anna Karennina"
-pubDate: "July 09 2025"
+publishedAt: 2025-07-09
 tags: ["review", "book"]
 ---
 I had this book on my shelf for several years now.
